@@ -4,7 +4,7 @@
 
 ![License](https://img.shields.io/github/license/oliverm-1902b0/dead-eye) ![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux-blue.svg)
 
-[![tool](https://img.shields.io/badge/tool-MIT-green?style=flat-square) ![Version](https://img.shields.io/badge/Version-1.2.1-blue?style=flat-square) ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey?style=flat-square) ![Python](https://img.shields.io/badge/Python-3.11%2B-3776AB?style=flat-square&logo=python&logoColor=white) ![Stars](https://img.shields.io/github/stars/oliverm-1902b0/dead-eye?style=flat-square) ![Last Commit](https://img.shields.io/github/last-commit/oliverm-1902b0/dead-eye?style=flat-square)
+[![tool](https://img.shields.io/badge/tool-MIT-green?style=flat-square) ![Version](https://img.shields.io/badge/Version-1.2.2-blue?style=flat-square) ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey?style=flat-square) ![Python](https://img.shields.io/badge/Python-3.11%2B-3776AB?style=flat-square&logo=python&logoColor=white) ![Stars](https://img.shields.io/github/stars/oliverm-1902b0/dead-eye?style=flat-square) ![Last Commit](https://img.shields.io/github/last-commit/oliverm-1902b0/dead-eye?style=flat-square)
 
 Dead cross-platform companion: tracks data, has config profiles
 
